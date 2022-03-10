@@ -1,2 +1,0 @@
-# supositorio
-trabajo en equipo
