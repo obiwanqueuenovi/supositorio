@@ -1,0 +1,30 @@
+.centrado{
+
+    text-align: center;
+    background-color: black;
+    color :white;
+    margin: auto;
+    width: 40%;
+}
+
+.centrar{
+
+    text-align: center;
+
+}
+
+.cajita{
+
+    margin: auto;
+    width: 35%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+p{
+    margin: auto;
+    width: auto;
+    border-color: black;
+    text-align: center;
+
+}
