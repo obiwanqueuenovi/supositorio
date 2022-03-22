@@ -1,4 +1,4 @@
-.centrado{
+.centrado{ 
 
     text-align: center;
     background-color: black;
@@ -27,4 +27,7 @@ p{
     border-color: black;
     text-align: center;
 
+}
+.color{
+    background-color: beige;
 }
