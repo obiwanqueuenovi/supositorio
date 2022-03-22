@@ -1,0 +1,36 @@
+.tam{
+
+    font-size: 45px;
+}
+
+.centrar
+{
+    text-align: center;
+}
+.color {
+    background-color: teal;
+    color: white;
+  }
+  .contimg
+  {
+      margin:0 4px;}
+.img{
+   
+        float: left;  
+    
+  }
+  hr {
+    clear: both;
+  }
+
+.caja{
+
+    margin: auto;
+    width: 15%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+p{
+    margin: auto;
+}
