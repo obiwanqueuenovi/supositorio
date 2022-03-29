@@ -1,13 +1,36 @@
-.centrar{
+.tam{
+
+    font-size: 45px;
+}
+
+.centrar
+{
     text-align: center;
 }
-.img
-{
-    width: 100%;
-    max-width: 800px;
+.color {
+    background-color: teal;
+    color: white;
+  }
+  .contimg
+  {
+      margin:0 4px;}
+.img{
+
+        float: left;
+
+  }
+  hr {
+    clear: both;
+  }
+
+.caja{
+
     margin: auto;
+    width: 15%;
+    border: 3px solid black;
+    padding: 10px;
 }
-.separarsup
-{
-    margin-top: 25 px;
+
+p{
+    margin: auto;
 }
