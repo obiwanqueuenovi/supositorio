@@ -4,7 +4,7 @@
     background-color: black;
     color :white;
     margin: auto;
-    width: 40%;
+    width: 60%;
 }
 
 .centrar{
@@ -14,11 +14,12 @@
 }
 
 .cajita{
-
+    font-size: 20px;
+    text-align: center;
     margin: auto;
-    width: 35%;
+    width: 50%;
     border: 3px solid black;
-    padding: 10px;
+   
 }
 
 p{
@@ -34,4 +35,11 @@ p{
 
 .mg{
     margin-left: 200px;
+}
+.mga{
+    margin-top: 20px;
+}
+
+.tam{
+    font-size: 20px;
 }
